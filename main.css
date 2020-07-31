@@ -1,0 +1,117 @@
+body, html {
+	margin: 0px;
+	overflow-x: hidden;
+	font-family: helvetica;
+	background-color: #1a1a1a;
+}
+
+/* Style the card */
+.card {
+	background-color: #3a403c;
+	width: 175px;
+	max-width: 250px;
+	height: 225px;
+	margin: 15px;
+	border-radius: 5%;
+	box-shadow: 1px 2px 30px black;
+	display: inline-block;
+}
+
+/* Change the image's border radius */
+.card img {
+	margin-top: 15px;
+	width: 50%;
+	border-radius: 5%;
+}
+
+/* Card's header */
+.card h1 {
+	font-size: 20px;
+	text-align: justify;
+	margin-left: 10px;
+	margin-bottom: 0;
+}
+
+/* Card's subtitle */
+.card p {
+	font-size: 12px;
+	color: #777;
+	text-align: justify;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+/* Style the card's "Get" button */
+.card a {
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	display: block;
+	background-image: linear-gradient(to bottom right, #0b63ba, #5faaf5);
+	border-radius: 10%;
+	width: 35%;
+	height: 10%;
+	padding: 5px;
+	margin-top: 15px;
+}
+
+/* Change the color of the button's text on hover */
+.card a:hover {
+	color: black;
+}
+
+/* Add a dark background to the navbar */
+.navbar {
+	background-color: #303030;
+	overflow: hidden;
+}
+
+/* Style the navbar links */
+.navbar a {
+	float: left;
+	text-align: center;
+	color: white;
+	padding: 14px 16px;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+/* Change the color of the links on hover */
+.navbar a:hover {
+	background-color: #dbdbdb;
+	color: black;
+}
+
+/* Change the color of the current link */
+.navbar .active {
+	background-image: linear-gradient(to bottom right, #0b63ba, #5faaf5);
+	color: white;
+}
+
+/* Style the texcard */
+.textcard {
+	background-color: #3a403c;
+	width: 400px;
+	height: 250px;
+	box-shadow: 1px 2px 30px black;
+	border-radius: 5%;
+}
+
+/* Style the textcard's header */
+.textcard h1 {
+	font-size: 20px;
+	text-align: justify;
+	padding-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 0;
+}
+
+/* Style the textcard's paragraph */
+.textcard p {
+	font-size: 12px;
+	color: #777;
+	text-align: justify;
+	margin-left: 10px;
+	margin-top: 5px;
+}
