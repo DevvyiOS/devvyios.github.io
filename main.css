@@ -98,6 +98,12 @@ body, html {
 	border-radius: 5%;
 }
 
+.textcard img {
+	margin-top: 15px;
+	border-radius: 5%;
+	margin-left: 15px;
+}
+
 /* Style the textcard's header */
 .textcard h1 {
 	font-size: 20px;
@@ -114,10 +120,4 @@ body, html {
 	text-align: justify;
 	margin-left: 10px;
 	margin-top: 5px;
-}
-
-.textcard img {
-	margin-top: 15px;
-	border-radius: 5%;
-	margin-left: 15px;
 }
