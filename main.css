@@ -115,3 +115,9 @@ body, html {
 	margin-left: 10px;
 	margin-top: 5px;
 }
+
+.textcard img {
+	margin-top: 15px;
+	border-radius: 5%;
+	margin-left: 15px;
+}
