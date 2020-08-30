@@ -97,11 +97,12 @@ body, html {
 	box-shadow: 1px 2px 30px black;
 	border-radius: 5%;
 }
-
+/* Style the textcard's image */
 .textcard img {
-	margin-top: 15px;
+	width: 50%;
+	padding-top: 10px;
 	border-radius: 5%;
-	margin-left: 15px;
+	padding-left: 15px;
 }
 
 /* Style the textcard's header */
@@ -109,7 +110,7 @@ body, html {
 	font-size: 20px;
 	text-align: justify;
 	padding-top: 10px;
-	margin-left: 10px;
+	padding-left: 30px;
 	margin-bottom: 0;
 }
 
