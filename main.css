@@ -44,17 +44,17 @@ body, html {
 
 /* Style the card's "Get" button */
 .card a {
-	font-size: 20px;
+	font-size: 15px;
+	font-weight: bold;
 	text-decoration: none;
 	text-align: center;
-	vertical-align: middle;
 	color: white;
 	display: block;
 	background-image: linear-gradient(to bottom right, #0b63ba, #5faaf5);
 	border-radius: 20px;
 	width: 50px;
-	height: 20px;
-	margn-top: 5px;
+	height: 35px;
+	padding: 5px;
 	margin-bottom: 0;
 }
 
