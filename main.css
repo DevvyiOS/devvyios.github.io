@@ -100,10 +100,10 @@ body, html {
 }
 /* Style the textcard's image */
 .textcard img {
-	width: 50%;
-	padding-top: 10px;
+	width: 30%;
 	border-radius: 5%;
-	padding-left: 15px;
+	margin-top 15px;
+	margin-left: 15;
 }
 
 /* Style the textcard's header */
