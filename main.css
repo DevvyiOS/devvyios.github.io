@@ -87,8 +87,6 @@ body, html {
 /* Change the color of the current link */
 .navbar .active {
 	background-image: linear-gradient(to bottom right, #0b63ba, #5faaf5);
-	border: 2px solid #dbdbdb;
-	border-radius: 5px;
 	color: white;
 }
 
