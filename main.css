@@ -45,7 +45,6 @@ body, html {
 /* Style the card's "Get" button */
 .card a {
 	font-size: 15px;
-	font-weight: bold;
 	text-decoration: none;
 	text-align: center;
 	color: white;
