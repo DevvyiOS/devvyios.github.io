@@ -39,6 +39,7 @@ body, html {
 	text-align: justify;
 	margin-left: 10px;
 	margin-top: 5px;
+	margin-bottom: 0;
 }
 
 /* Style the card's "Get" button */
@@ -53,7 +54,7 @@ body, html {
 	border-radius: 10%;
 	width: 60px;
 	height: 20px;
-	margin-botton: 15px;
+	padding: 4px 6px;
 }
 
 /* Change the color of the button's text on hover */
