@@ -50,15 +50,14 @@ body, html {
 	display: block;
 	background-image: linear-gradient(to bottom right, #0b63ba, #5faaf5);
 	border-radius: 10%;
-	box-shadow: 1px 2px 30px black;
-	width: 35%;
-	height: 10%;
+	width: 25px;
+	height: 10px;
 	margin-top: 15px;
 }
 
 /* Change the color of the button's text on hover */
 .card a:hover {
-	box-shadow: none;
+	box-shadow: 1px 2px 30px black;
 	color: black;
 }
 
