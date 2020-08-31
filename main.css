@@ -80,7 +80,7 @@ body, html {
 /* Change the color of the links on hover */
 .navbar a:hover {
 	background-color: #dbdbdb;
-	border: 2px solid #5faaf5;
+	border: 2px solid;
 	border-radius: 5px;
 	border-image-source: linear-gradient(to bottom right, #0b63ba, #5faaf5);
 	color: black;
