@@ -54,6 +54,8 @@ body, html {
 	border-radius: 20px;
 	width: 50px;
 	height: 20px;
+	margn-top: 5px;
+	margin-bottom: 0;
 }
 
 /* Change the color of the button's text on hover */
