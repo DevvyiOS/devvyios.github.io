@@ -67,7 +67,7 @@ body, html {
 }
 
 .tab a {
-	font-family: framework7_iconsregular;
+	font-family: 'framework7_iconsregular';
 	text-decoration: none;
 	font-weight: normal;
 	font-style: normal;
