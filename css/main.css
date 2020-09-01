@@ -48,3 +48,18 @@ body, html {
 	margin-bottom: 2px;
 	text-align: justify;
 }
+
+.navbar {
+	padding-top 15px;
+	padding-bottom: 15px;
+	width: 100%;
+	background-color: #e5e5ea;
+}
+
+.tab {
+	font-family: "framework7_iconsregular";
+	text-decoration: none;
+	margin: 10px;
+	padding: 5px;
+	
+}
