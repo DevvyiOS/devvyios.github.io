@@ -31,7 +31,7 @@ body, html {
 	border-radius: 12px;
 	background-color: #fff;
 	margin: 10px;
-	box-shadow: 1px 2px 20px black;
+	box-shadow: 1px 2px 10px black;
 }
 
 .popular img {
@@ -62,7 +62,7 @@ body, html {
 }
 
 .tab {
-	font-family: "framework7_iconsregular";
+	font-family: 'framework7_iconsregular';
 	text-decoration: none;
 	margin: 10px;
 	padding: 5px;
